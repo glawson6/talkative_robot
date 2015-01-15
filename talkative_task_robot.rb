@@ -130,7 +130,8 @@ new_groceries_required = output_grocery_list(new_groceries)
 
 # write grocery list to new file
 write_to_file_newline_ending(newfilename,new_groceries_required)
-puts("Here")
+
+#Write to csv file
 write_to_csv_file(csv_filename,new_groceries)
 
 
