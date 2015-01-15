@@ -1,0 +1,8 @@
+ItemNumber,Item
+1,Eggs
+2,Flour
+3,Milk
+4,Sugar
+5,Juice
+6,Cheese
+7,Bread
