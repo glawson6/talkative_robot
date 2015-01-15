@@ -59,7 +59,7 @@ def read_groceries_from_file(filename)
   read_file.split(%r{\d\d\s--\s})
 end
 def output_grocery_list(grocery_list)
-  grocery_list.each_with_index.map{|element,index| grocery_string_with_index(element,index)}
+  grocery_list.map.with_index{|element,index| grocery_string_with_index(element,index)}
 end
 def select_by_name(list_of_users, first_name)
   list_of_users.select{|element| element[:name]== first_name}
