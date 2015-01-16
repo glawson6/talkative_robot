@@ -1,0 +1,7 @@
+01 -- Eggs
+02 -- Flour
+03 -- Milk
+04 -- Sugar
+05 -- Juice
+06 -- Cheese
+07 -- Bread
