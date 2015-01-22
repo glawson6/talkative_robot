@@ -32,3 +32,11 @@ Create a text-based RPG where you fight a dragon, both of you have health points
 ###Extra bonus: 
 
 You can taunt the dragon and he’ll either lose or gain health
+
+###Add RSpec tests for each method
+- 100% of Happy path
+- 100% of Sad path
+- Give it to a friend to try and destroy it
+- 100% of Bad path
+###Note: Include all previous functions from class
+###Note: Ignore any method that includes "get"
